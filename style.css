@@ -1,0 +1,37 @@
+body{
+    /* background: black; */
+    padding:15px;
+    font-family: 'Lucida Console', Monaco, monospace;
+  }
+  
+  .warning{
+    color: yellow;
+  }
+
+  #results{
+     background-color: white;
+     width: 20rem;
+     padding: .5rem;
+     text-align: center;
+     font-size: 1.4rem;
+     margin-top: 5rem;
+     margin: auto;
+     box-shadow:7px 0px 8px 0px;
+  }
+  .div{
+    width: 4rem;
+    height: 5rem;
+    padding: 1rem;
+    margin: auto;
+    margin-top: 2rem;
+    color: green;
+    background-color: white;
+    box-shadow:2px 1px 2px 3px black;
+  }
+  #keysPressed{
+    font-size: 5rem;
+  }
+  
+
+  
+  
